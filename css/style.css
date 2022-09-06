@@ -189,7 +189,7 @@ footer {
   }
   input[type="submit"], button {
     background: rgb(200, 0, 0);
-    color: #333;
+    color: rgb(255, 255, 255);
   }
   input[type="submit"]:hover, button:hover {
     background: rgb(200, 0, 0);
